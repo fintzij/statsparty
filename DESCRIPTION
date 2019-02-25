@@ -1,0 +1,14 @@
+Package: statsparty
+Type: Package
+Title: statsparty
+Version: 1.0
+Date: 2019-02-12
+Author: Jon Fintzi
+Maintainer: Jon Fintzi <fintzij@gmail.com>
+Description: Miscellaneous functions and utilities so that you can host your own stats party.
+License: GPL (>=2)
+Imports: Rcpp (>= 1.0.0)
+Suggests: raster
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 6.1.1
+Encoding: UTF-8
